@@ -1,4 +1,3 @@
-from Fitness import geraAptidao
 from Genetico import (
     popula,
     ordena,
@@ -9,6 +8,7 @@ from Genetico import (
     mutacao,
     novaGeracao,
     AG,
+    geraAptidao,
 )
 
 

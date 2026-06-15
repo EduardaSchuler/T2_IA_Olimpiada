@@ -1,5 +1,12 @@
 import random
-from Fitness import geraAptidao
+
+def geraAptidao(individuo, prefA, prefB):
+# Quanto menor a aptidão, melhor. O mínimo é 0 (todos na primeira posição)
+    aptidao = 0
+    for i, j in enumerate(individuo):
+        aptidao += prefA[i].index(j)
+        aptidao += prefB[j].index(i)
+    return aptidao
 
 
 def popula(tamPopulacao, n):
