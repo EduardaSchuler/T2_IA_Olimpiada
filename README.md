@@ -1,9 +1,7 @@
-# 🧬 Algoritmo Genético - Olimpíada de IA
-
+# 🧬 Algoritmo Genético - Olimpíada
 Um projeto simples e funcional que implementa um **algoritmo genético** para resolver problemas de alocação e matching. É tipo um "jogo de xadrez" entre preferências: a gente tem pessoas com preferências e precisa encontrar a melhor combinação possível!
 
 ## 🚀 Como Usar
-
 ```bash
 python T2.py exemplo1.txt
 ```
@@ -14,12 +12,10 @@ python T2.py exemplo1.txt
 3. Mostrar a melhor solução encontrada
 
 ## 📋 O Que Você Precisa
-
 - Python 3.x (qualquer versão recente funciona)
 - Um arquivo com preferências (tipo `exemplo1.txt`)
 
-## 🧬 Como Funciona (de forma humana)
-
+## 🧬 Como Funciona
 Imagina um problema onde você precisa casar dados de forma "inteligente":
 - **População Inicial**: Gera combinações aleatórias
 - **Aptidão**: Avalia qual combinação é melhor (quanto menor a "insatisfação", melhor!)
@@ -29,20 +25,14 @@ Imagina um problema onde você precisa casar dados de forma "inteligente":
 - **Evolução**: Repete até encontrar uma boa solução 🎯
 
 ## 📁 Arquivos Principais
-
 - **T2.py** - Programa principal (executa tudo)
 - **Genetico.py** - Implementação do algoritmo genético
 - **exemplo1.txt** - Dados de teste
 - **Documentacao/** - Explicações detalhadas e exemplos
 
 ## 📚 Quer Saber Mais?
-
 Veja a pasta `Documentacao/` para:
 - Explicações completas do algoritmo
 - Exemplos de cálculo manual
 - Guia de testes
 - E muito mais!
-
----
-
-**Feito com ❤️ para a Olimpíada de IA**
