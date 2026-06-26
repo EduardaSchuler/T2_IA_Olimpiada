@@ -1,0 +1,69 @@
+João Henrique Pires Bergallo
+Larissa Oliveira da Silva
+Maria Eduarda da Silveira Schüler
+==================================================
+=== INICIANDO ALGORITMO GENÉTICO ===
+==================================================
+[AG Geração 001] Média da População: 91.24 | Aptidão (Melhor): 54 | Melhor Indivíduo: [1, 3, 8, 4, 5, 6, 9, 2, 0, 7]
+[AG Geração 002] Média da População: 84.30 | Aptidão (Melhor): 52 | Melhor Indivíduo: [1, 3, 8, 4, 5, 6, 9, 7, 0, 2]
+[AG Geração 003] Média da População: 75.26 | Aptidão (Melhor): 36 | Melhor Indivíduo: [3, 8, 1, 5, 4, 6, 7, 9, 2, 0]
+[AG Geração 004] Média da População: 66.30 | Aptidão (Melhor): 36 | Melhor Indivíduo: [3, 8, 1, 5, 4, 6, 7, 9, 2, 0]
+[AG Geração 005] Média da População: 60.92 | Aptidão (Melhor): 34 | Melhor Indivíduo: [1, 3, 8, 5, 4, 6, 7, 9, 0, 2]
+[AG Geração 006] Média da População: 54.40 | Aptidão (Melhor): 30 | Melhor Indivíduo: [3, 8, 4, 5, 7, 6, 2, 9, 0, 1]
+[AG Geração 007] Média da População: 50.14 | Aptidão (Melhor): 28 | Melhor Indivíduo: [1, 4, 6, 5, 8, 7, 9, 0, 3, 2]
+[AG Geração 008] Média da População: 44.42 | Aptidão (Melhor): 21 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 0, 3, 1]
+[AG Geração 009] Média da População: 45.82 | Aptidão (Melhor): 21 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 0, 3, 1]
+[AG Geração 010] Média da População: 44.26 | Aptidão (Melhor): 21 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 0, 3, 1]
+[AG Geração 011] Média da População: 43.96 | Aptidão (Melhor): 21 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 0, 3, 1]
+[AG Geração 012] Média da População: 49.58 | Aptidão (Melhor): 21 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 0, 3, 1]
+[AG Geração 013] Média da População: 43.04 | Aptidão (Melhor): 21 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 0, 3, 1]
+[AG Geração 014] Média da População: 39.26 | Aptidão (Melhor): 21 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 0, 3, 1]
+[AG Geração 015] Média da População: 34.90 | Aptidão (Melhor): 21 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 0, 3, 1]
+[AG Geração 016] Média da População: 28.00 | Aptidão (Melhor): 21 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 0, 3, 1]
+[AG Geração 017] Média da População: 26.56 | Aptidão (Melhor): 21 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 0, 3, 1]
+[AG Geração 018] Média da População: 23.50 | Aptidão (Melhor): 12 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 1, 3, 0]
+[AG Geração 019] Média da População: 24.20 | Aptidão (Melhor): 12 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 1, 3, 0]
+[AG Geração 020] Média da População: 21.90 | Aptidão (Melhor): 12 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 1, 3, 0]
+[AG Geração 021] Média da População: 27.78 | Aptidão (Melhor): 12 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 1, 3, 0]
+[AG Geração 022] Média da População: 21.06 | Aptidão (Melhor): 12 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 1, 3, 0]
+[AG Geração 023] Média da População: 18.30 | Aptidão (Melhor): 12 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 1, 3, 0]
+[AG Geração 024] Média da População: 13.80 | Aptidão (Melhor): 12 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 1, 3, 0]
+[AG Geração 025] Média da População: 14.60 | Aptidão (Melhor): 12 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 1, 3, 0]
+[AG Geração 026] Média da População: 15.36 | Aptidão (Melhor): 12 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 1, 3, 0]
+[AG Geração 027] Média da População: 15.66 | Aptidão (Melhor): 12 | Melhor Indivíduo: [9, 8, 4, 5, 7, 6, 2, 1, 3, 0]
+[AG Geração 028] Média da População: 15.20 | Aptidão (Melhor): 6 | Melhor Indivíduo: [9, 8, 4, 5, 6, 7, 2, 1, 3, 0]
+[AG Geração 029] Média da População: 16.12 | Aptidão (Melhor): 6 | Melhor Indivíduo: [9, 8, 4, 5, 6, 7, 2, 1, 3, 0]
+[AG Geração 030] Média da População: 13.96 | Aptidão (Melhor): 6 | Melhor Indivíduo: [9, 8, 4, 5, 6, 7, 2, 1, 3, 0]
+[AG Geração 031] Média da População: 18.42 | Aptidão (Melhor): 6 | Melhor Indivíduo: [9, 8, 4, 5, 6, 7, 2, 1, 3, 0]
+[AG Geração 032] Média da População: 23.58 | Aptidão (Melhor): 6 | Melhor Indivíduo: [9, 8, 4, 5, 6, 7, 2, 1, 3, 0]
+[AG Geração 033] Média da População: 10.02 | Aptidão (Melhor): 6 | Melhor Indivíduo: [9, 8, 4, 5, 6, 7, 2, 1, 3, 0]
+[AG Geração 034] Média da População: 7.92 | Aptidão (Melhor): 0 | Melhor Indivíduo: [9, 8, 6, 5, 4, 7, 2, 1, 3, 0]
+
+[!] Parada Antecipada: Solução Ótima Absoluta encontrada na geração 34.
+
+==================================================
+RESULTADO FINAL DO AG
+Melhor Vetor Codificado: [9, 8, 6, 5, 4, 7, 2, 1, 3, 0]
+Fitness Final (Penalidade): 0
+
+==================================================
+SOLUÇÃO FINAL DECODIFICADA
+==================================================
+Quarto 1: Aluno A1 <-> Aluno B10
+Quarto 2: Aluno A2 <-> Aluno B9
+Quarto 3: Aluno A3 <-> Aluno B7
+Quarto 4: Aluno A4 <-> Aluno B6
+Quarto 5: Aluno A5 <-> Aluno B5
+Quarto 6: Aluno A6 <-> Aluno B8
+Quarto 7: Aluno A7 <-> Aluno B3
+Quarto 8: Aluno A8 <-> Aluno B2
+Quarto 9: Aluno A9 <-> Aluno B4
+Quarto 10: Aluno A10 <-> Aluno B1
+==================================================
+
+
+==================================================
+SOLUÇÃO FINAL DECODIFICADA - NO FORMATO SOLICITADO
+==================================================
+(1,10),(2,9),(3,7),(4,6),(5,5),(6,8),(7,3),(8,2),(9,4),(10,1)
+==================================================
